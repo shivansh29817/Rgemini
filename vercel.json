@@ -7,7 +7,7 @@
     "use": "@now/node"
         }
     ],
-"public": [
+"routes": [
     {
 
     "src": "/( .* )",
